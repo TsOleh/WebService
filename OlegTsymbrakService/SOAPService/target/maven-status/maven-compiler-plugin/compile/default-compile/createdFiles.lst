@@ -1,0 +1,10 @@
+com\epam\lab\location\MainClass.class
+com\epam\lab\location\models\Friends.class
+com\epam\lab\location\soap\impl\LocationServiceImpl.class
+com\epam\lab\location\models\Locations.class
+com\epam\lab\location\models\Summary.class
+com\epam\lab\location\models\SummarySuccess.class
+com\epam\lab\location\soap\LocationService.class
+com\epam\lab\location\models\SummaryFault.class
+com\epam\lab\location\models\Response.class
+com\epam\lab\location\models\MyLocation.class
